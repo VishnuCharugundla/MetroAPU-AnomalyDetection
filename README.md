@@ -77,10 +77,3 @@ This project focuses on developing an **anomaly detection system** for the **Aux
 
 ---
 
-## 📂 **Repository Structure**  
-```plaintext
-├── data/                     # Raw and processed data files  
-├── notebooks/                # Jupyter notebooks with code and visualizations  
-├── models/                   # Saved ML and DL models  
-├── images/                   # Plots and graphs from EDA and results  
-├── README.md                 # Project documentation  
